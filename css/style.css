@@ -1,0 +1,23 @@
+.h1{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+    position: sticky;
+}
+
+
+
+.Hero-img{
+    margin: 0px 20px;
+    width: 100%;
+}
+
+.hp-brand{
+    transform: rotate(90deg);
+}
